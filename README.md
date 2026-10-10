@@ -30,7 +30,7 @@ The Java Task List Application helps users manage everyday tasks using a simple 
 TaskListApplication/
 ├── TaskListApp.java
 ├── README.md
-└── 
+└── .gitignore
 ```
 
 ## Prerequisites
